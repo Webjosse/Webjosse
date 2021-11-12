@@ -1,7 +1,7 @@
 ![Josse DE OLIVEIRA](name_text.png "Josse DE OLIVEIRA")
 <h1>Webjosse, French Student
 </h1>
-<h2 zlign="center">
+<h2 align="center">
 🌐 Web dev-lover 🌐
 </h2>
 
