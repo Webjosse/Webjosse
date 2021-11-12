@@ -1,10 +1,10 @@
-![Josse DE OLIVEIRA](name_text.png "Josse DE OLIVEIRA")<center><h1>Webjosse, French Student
+![Josse DE OLIVEIRA](name_text.png "Josse DE OLIVEIRA")
+<p align="center">
+<h1>Webjosse, French Student
 </h1>
 <h2>
-🌐 Web dev lover 🌐
+🌐 Web dev-lover 🌐
 </h2>
-</center>
-<center>
 
 ### Web-oriented knowledges
 ![Webjosse_HTML/CSS](https://img.shields.io/badge/HTML/CSS-advanced-yellow "Webjosse_html_css") ![Webjosse_sql](https://img.shields.io/badge/SQL-advanced-yellow "Webjosse_SQL") ![Webjosse_javascript](https://img.shields.io/badge/javascript-advanced-yellow "Webjosse_javascript") ![Webjosse_jquery](https://img.shields.io/badge/jquery-advanced-yellow "Webjosse_jquery")<br/>
@@ -22,4 +22,4 @@
 ### Game dev (for fun only)
 ![Webjosse_pygame](https://img.shields.io/badge/pygame-advanced-yellow "Webjosse_pygame")
 ![Webjosse_godot](https://img.shields.io/badge/godot-beginner-blue "Webjosse_godot")
-</center>
+</p>
